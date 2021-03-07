@@ -1,0 +1,15 @@
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\bin\Debug\netstandard2.0\Mobiilirakendus.deps.json
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\bin\Debug\netstandard2.0\Mobiilirakendus.dll
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\bin\Debug\netstandard2.0\ref\Mobiilirakendus.dll
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\bin\Debug\netstandard2.0\Mobiilirakendus.pdb
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.csprojAssemblyReference.cache
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.AssemblyInfoInputs.cache
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.AssemblyInfo.cs
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.csproj.CoreCompileInputs.cache
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.dll
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\ref\Mobiilirakendus.dll
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\Mobiilirakendus.pdb
+C:\Users\jaanu\source\repos\Mobiilirakendus\Mobiilirakendus\Mobiilirakendus\obj\Debug\netstandard2.0\NotMainPage.xaml.g.cs

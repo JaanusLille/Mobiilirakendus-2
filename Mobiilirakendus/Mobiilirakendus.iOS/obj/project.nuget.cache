@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b041bYmLhi1iXgJgE5iqElqGpAyQG/bbjuy/N6Kk5conpAHOnSSGDxFeBwJExtbslpVNNe01CGOF72BXc2Sd3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus-2(kustutada)\\Mobiilirakendus\\Mobiilirakendus.iOS\\Mobiilirakendus.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
